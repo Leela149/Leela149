@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech Computer Science Graduate<br><br>💼 Aspiring Software Engineer actively seeking job opportunities<br><br>🛠 Skilled in Python, Django, SQL, and full‑stack web development<br><br>🌱 Currently building projects and learning advanced backend & AI concepts<br><br>⚡ Passionate about creating scalable, user‑friendly applications
+🎓 B.Tech Computer Science Graduate<br><br>💼 Aspiring Software Engineer actively seeking job opportunities<br><br>🛠 Skilled in Python, Django, SQL, java, and full‑stack web development<br><br>🌱 Currently building projects and learning advanced backend & AI concepts<br><br>⚡ Passionate about creating scalable, user‑friendly applications
 
 
 ## 🌐 Socials:
